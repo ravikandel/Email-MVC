@@ -1,0 +1,110 @@
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\MvcEmail.dll.config
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\MvcEmail.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\MvcEmail.pdb
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Antlr3.Runtime.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\EntityFramework.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\EntityFramework.SqlServer.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Google.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Web.Infrastructure.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Newtonsoft.Json.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Owin.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.Helpers.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.Mvc.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.Optimization.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.Razor.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.WebPages.Deployment.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.WebPages.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.WebPages.Razor.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\WebGrease.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.Helpers.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.Mvc.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.Optimization.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.Razor.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.WebPages.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.WebPages.Deployment.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\System.Web.WebPages.Razor.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Newtonsoft.Json.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Antlr3.Runtime.pdb
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\EntityFramework.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\EntityFramework.SqlServer.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Google.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\obj\Debug\MvcEmail.csprojResolveAssemblyReference.cache
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\obj\Debug\MvcEmail.dll
+c:\users\anamol\documents\visual studio 2013\Projects\MvcEmail\MvcEmail\obj\Debug\MvcEmail.pdb
+E:\MvcEmail\MvcEmail\bin\MvcEmail.dll.config
+E:\MvcEmail\MvcEmail\bin\MvcEmail.dll
+E:\MvcEmail\MvcEmail\bin\MvcEmail.pdb
+E:\MvcEmail\MvcEmail\bin\Antlr3.Runtime.dll
+E:\MvcEmail\MvcEmail\bin\EntityFramework.dll
+E:\MvcEmail\MvcEmail\bin\EntityFramework.SqlServer.dll
+E:\MvcEmail\MvcEmail\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MvcEmail\MvcEmail\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MvcEmail\MvcEmail\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.dll
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.dll
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Google.dll
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MvcEmail\MvcEmail\bin\Microsoft.Web.Infrastructure.dll
+E:\MvcEmail\MvcEmail\bin\Newtonsoft.Json.dll
+E:\MvcEmail\MvcEmail\bin\Owin.dll
+E:\MvcEmail\MvcEmail\bin\System.Web.Helpers.dll
+E:\MvcEmail\MvcEmail\bin\System.Web.Mvc.dll
+E:\MvcEmail\MvcEmail\bin\System.Web.Optimization.dll
+E:\MvcEmail\MvcEmail\bin\System.Web.Razor.dll
+E:\MvcEmail\MvcEmail\bin\System.Web.WebPages.Deployment.dll
+E:\MvcEmail\MvcEmail\bin\System.Web.WebPages.dll
+E:\MvcEmail\MvcEmail\bin\System.Web.WebPages.Razor.dll
+E:\MvcEmail\MvcEmail\bin\WebGrease.dll
+E:\MvcEmail\MvcEmail\bin\System.Web.Helpers.xml
+E:\MvcEmail\MvcEmail\bin\System.Web.Mvc.xml
+E:\MvcEmail\MvcEmail\bin\System.Web.Optimization.xml
+E:\MvcEmail\MvcEmail\bin\System.Web.Razor.xml
+E:\MvcEmail\MvcEmail\bin\System.Web.WebPages.xml
+E:\MvcEmail\MvcEmail\bin\System.Web.WebPages.Deployment.xml
+E:\MvcEmail\MvcEmail\bin\System.Web.WebPages.Razor.xml
+E:\MvcEmail\MvcEmail\bin\Newtonsoft.Json.xml
+E:\MvcEmail\MvcEmail\bin\Antlr3.Runtime.pdb
+E:\MvcEmail\MvcEmail\bin\EntityFramework.xml
+E:\MvcEmail\MvcEmail\bin\EntityFramework.SqlServer.xml
+E:\MvcEmail\MvcEmail\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MvcEmail\MvcEmail\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MvcEmail\MvcEmail\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.xml
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.xml
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Google.xml
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MvcEmail\MvcEmail\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MvcEmail\MvcEmail\obj\Debug\MvcEmail.csprojResolveAssemblyReference.cache
+E:\MvcEmail\MvcEmail\obj\Debug\MvcEmail.dll
+E:\MvcEmail\MvcEmail\obj\Debug\MvcEmail.pdb
